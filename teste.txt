@@ -1,0 +1,7 @@
+# Criar uma nova branch a partir do commit f0f2989
+git switch -c backup_f0f2989
+
+# Ou se preferir manter o nome original da branch:
+git switch -c main
+
+git checkout f0f2989
